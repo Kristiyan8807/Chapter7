@@ -1,0 +1,11 @@
+C:\Projects\Chapter7\04Task\bin\Debug\netcoreapp2.1\04Task.deps.json
+C:\Projects\Chapter7\04Task\bin\Debug\netcoreapp2.1\04Task.runtimeconfig.json
+C:\Projects\Chapter7\04Task\bin\Debug\netcoreapp2.1\04Task.runtimeconfig.dev.json
+C:\Projects\Chapter7\04Task\bin\Debug\netcoreapp2.1\04Task.dll
+C:\Projects\Chapter7\04Task\bin\Debug\netcoreapp2.1\04Task.pdb
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.AssemblyInfoInputs.cache
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.AssemblyInfo.cs
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.dll
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.pdb
+C:\Projects\Chapter7\04Task\obj\Debug\netcoreapp2.1\04Task.csprojAssemblyReference.cache
